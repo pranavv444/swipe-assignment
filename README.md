@@ -1,1 +1,1 @@
-# swipe-intern-assignment
+# swipe-assignment
